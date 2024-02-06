@@ -1,1 +1,2 @@
-https://github.com/wiekusviljoen/Shoe-Inventory-App/blob/main/dockerfile
+https://hub.docker.com/r/wiekus/inventory
+docker pull wiekus/inventory
